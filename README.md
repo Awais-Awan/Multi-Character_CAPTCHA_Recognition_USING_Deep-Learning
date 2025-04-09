@@ -38,6 +38,11 @@ PIL
 
 Matplotlib
 
+---
+
+## Dataset
+
+you can get captcha images dataset from kaggle ( https://www.kaggle.com/datasets/johnbergmann/captcha-image-dataset )
 
 
 
